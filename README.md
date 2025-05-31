@@ -1,4 +1,5 @@
 # Project Phaethon: 火星新人类认知教育系统原型
+🌐 English version available here: [README.en.md](./README.en.md)
 
 > 为火星定居者重建教育系统，是人类文明走向多行星时代的必要步骤。
 

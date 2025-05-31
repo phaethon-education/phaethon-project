@@ -35,3 +35,4 @@ Project Phaethon 是一个面向火星定居人类设计的认知操作系统与
 - 设计、认知科学、分布式治理等领域贡献者加入
 
 请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md) 获取详细指引。
+a project by Ma Ruize

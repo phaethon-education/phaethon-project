@@ -33,6 +33,6 @@ We welcome:
 - Anyone passionate about space, cognition, or synthetic civilization
 - Developers for AGI tools, simulation interfaces, and content routing
 
-See [CONTRIBUTING](./CONTRIBUTING.md)](https://github.com/phaethon-education/phaethon-project/blob/main/CONTRIBUTING/en.md) for detailed instructions.
+See [[CONTRIBUTING](./CONTRIBUTING.md)](https://github.com/phaethon-education/phaethon-project/blob/main/CONTRIBUTING/en.md) for detailed instructions.
 
 a project by Ma Ruize

@@ -34,3 +34,4 @@ We welcome:
 - Developers for AGI tools, simulation interfaces, and content routing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions.
+by Ma Ruize

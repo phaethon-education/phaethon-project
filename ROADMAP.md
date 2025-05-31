@@ -1,17 +1,17 @@
 # Project Phaethon Roadmap (v0.1)
 
 ## 🎯 2025 Q3
-- 完成白皮书 v0.1~v0.3
-- 建立 GitHub 仓库与贡献指南
-- 启动 Podcast + 小红书传播通道
-- 构建第一个模块原型（如火星水系统）
+- Publish Whitepaper v0.1–v0.3
+- Launch GitHub repository and contributor guidelines
+- Initiate podcast and content distribution
+- Prototype the first education module (e.g., Martian water systems)
 
 ## 🚧 2025 Q4
-- Notion/Obsidian 知识图谱上线
-- 社群模块共建测试
-- 跨平台原型开发（教育+仿真）
+- Launch Notion/Obsidian knowledge maps
+- Open co-development testing for modules
+- Start cross-platform development (education + simulation)
 
 ## 🧠 2026+
-- 完整模块链 + 版本控制机制
-- 教育仿真游戏 + 微社会模拟
-- 与高校/实验室合作启动火星教育原型实验
+- Build full modular chain + version control
+- Launch educational simulation environment
+- Collaborate with universities and labs for prototype deployment

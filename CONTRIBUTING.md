@@ -1,16 +1,18 @@
-# 如何参与 Project Phaethon
+# How to Contribute to Project Phaethon
 
-感谢你有兴趣参与构建面向火星文明的教育系统。
+Thank you for your interest in co-building a cognitive education system for Martian settlers.
 
-## 👣 快速开始
+## 🛠 Quick Start
 
-1. Fork 本项目
-2. 新建分支并基于模块内容撰写文档或代码
-3. 提交 Pull Request（PR）
+1. Fork this repository
+2. Create a new branch and write your module/doc changes
+3. Submit a Pull Request (PR)
 
-## 🧱 可贡献的方向
+## 🔍 Contribution Opportunities
 
-- 撰写模块文档（如：认知OS、生存建造等）
-- 提供技术实现建议（教育工具、仿真平台等）
-- 发起讨论：通过 Issue 提出你关心的模块
-- 提交播客/博客/视频内容链接
+- Draft educational modules (Cognitive OS, Survival Engineering, etc.)
+- Propose technical infrastructure ideas (AGI tools, simulation engines)
+- Start topic discussions via GitHub Issues
+- Submit podcast, blog or video content linked to Phaethon
+
+Everyone is welcome to contribute—engineers, educators, designers, systems thinkers.
